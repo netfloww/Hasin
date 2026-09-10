@@ -1,9 +1,0 @@
-const booksData = [
-    {
-        title: "العادات الذرية",
-        category: "تنمية بشرية",
-        desc: "كتاب يقدم منهجاً عملياً وبسيطاً لبناء عادات حسنة والتخلص من العادات السيئة خطوة بخطوة.",
-        cover: "https://i.imgur.com/VOsEQRH.jpg",
-        pdfUrl: "atomic-habits.pdf"
-    }
-];
